@@ -1,4 +1,4 @@
-package com.fsc.inovetecnologias.api;
+package com.inovetecnologias.fsc.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
